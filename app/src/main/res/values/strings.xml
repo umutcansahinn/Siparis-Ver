@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SiparisVer</string>
+
+    <string name="give_pizza_order">Give Pizza Order</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="siparis_özeti">Siparis Ozeti</string>
+    <string name="tutar">Tutar: %s</string>
+    <string name="kdv">KDV: %s</string>
+    <string name="submit">Submit</string>
+    <string name="toplam_tutar">Toplam Tutar: %s</string>
+
+
+    <string name="birinci_ekran">Birinci Ekran</string>
+    <string name="ikinci_ekran">Ikinci Ekran</string>
+    <string name="ucuncu_ekran">Ucuncu Ekran</string>
+    <string name="dortuncu_ekran">Dorduncu Ekran</string>
+    <string name="bescinci_ekran">Besinci Ekran</string>
+</resources>
